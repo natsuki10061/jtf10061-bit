@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Natsu</h1>
-<h3 align="center">Full-stack Engineer specializing in React/Vue and Python-based AI Agents.</h3>
+<h1 align="left">Hi 👋, I'm Natsu</h1>
+<h3 align="left">Full-stack Engineer specializing in React/Vue and Python-based AI Agents.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left"> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
