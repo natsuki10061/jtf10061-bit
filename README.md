@@ -9,15 +9,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jtf10061-bit&theme=react-dark&area=true&hide_border=true" width="100%" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのユーザー名&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ### 📊 My GitHub Contributions (3D View)
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%">
 </div> -->
 
 <h3 align="left">Languages and Tools:</h3>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
-
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact) -->
 
 #### 🌐 Frontend
 
