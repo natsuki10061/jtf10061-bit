@@ -9,7 +9,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jtf10061-bit&theme=react-dark&area=true&hide_border=true" width="100%" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのユーザー名&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtf10061-bit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### 📊 My GitHub Contributions (3D View)
 <div align="center">
